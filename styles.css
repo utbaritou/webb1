@@ -1,0 +1,19 @@
+body {
+  background-color: lightgrey;
+}
+
+h1 {
+  font-family: verdana, sans-serif;
+  font-size: 1.7em;
+  color: brown
+}
+
+p {
+  font-family: verdana, sans-serif;
+  font-size: 1.2em;
+  color: brown
+}
+
+img {
+  width: 600px
+}
